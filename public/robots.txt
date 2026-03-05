@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://international-processing-solutions-183bd189.zappy5.app/sitemap.xml
