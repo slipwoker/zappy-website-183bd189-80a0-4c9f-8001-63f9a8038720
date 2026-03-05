@@ -1,57 +1,47 @@
-# International Processing Solutions — Generative Engine Optimization Map
-
-> An international payment processing solutions provider positioned as a cost-saving alternative to major competitors like Stripe and Clover. The brand emphasizes immediate savings and competitive pricing with a direct, action-oriented approach encouraging prospects to call for instant results.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://international-processing-solutions-183bd189.zappy5.app
+https://example.com
 Slash your payment processing costs with our international solutions. Better rates than Stripe or Clover. Call now for immediate savings on credit card processing.
 
 ### Pricing
-https://international-processing-solutions-183bd189.zappy5.app/pricing
+https://example.com/pricing
 Discover competitive payment processing rates that save you money instantly. No hidden fees, just straightforward pricing that beats the competition. Get your quote today.
 
 ### Solutions
-https://international-processing-solutions-183bd189.zappy5.app/solutions
+https://example.com/solutions
 Powerful payment processing solutions built for international businesses. Accept payments worldwide with lower fees and superior service. Explore our complete platform.
 
 ### Contact
-https://international-processing-solutions-183bd189.zappy5.app/contact
+https://example.com/contact
 Ready to reduce your payment processing costs? Contact us today for an instant consultation and see how much you can save. Our team is standing by to help you switch.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://international-processing-solutions-183bd189.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://international-processing-solutions-183bd189.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://international-processing-solutions-183bd189.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About International Processing Solutions
-An international payment processing solutions provider positioned as a cost-saving alternative to major competitors like Stripe and Clover. The brand emphasizes immediate savings and competitive pricing with a direct, action-oriented approach encouraging prospects to call for instant results.
-
-## Target Audience
-international businesses
-
-## Industry
-financial services
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://international-processing-solutions-183bd189.zappy5.app/sitemap.xml
-- **Robots.txt**: https://international-processing-solutions-183bd189.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
